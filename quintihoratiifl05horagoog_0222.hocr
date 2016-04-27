@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifl05horagoog_0222.png"; bbox 0 0 1842 3150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 127 131 628 188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 127 131 628 188">
+     <span class='ocr_line' id='line_1_1' title="bbox 127 131 628 188; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 127 134 184 188; x_wconf 69' lang='lat'><strong>2⁰⁸,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 348 131 628 188; x_wconf 58' lang='lat' dir='ltr'><strong>mrum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 262 849 695">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 126 262 849 625">
+     <span class='ocr_line' id='line_1_2' title="bbox 127 262 710 337; baseline 0 -24"><span class='ocrx_word' id='word_1_3' title='bbox 127 262 710 337; x_wconf 51' lang='lat' dir='ltr'><strong>Nmfinurtmispvdwmmumqs</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 126 323 720 396; baseline 0 -25"><span class='ocrx_word' id='word_1_4' title='bbox 126 323 487 396; x_wconf 67' lang='lat' dir='ltr'><strong>Nmtnmeudyemmm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 496 323 720 381; x_wconf 66' lang='lat' dir='ltr'><strong>dudmAum&#39;u</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 127 382 660 457; baseline -0.002 -16"><span class='ocrx_word' id='word_1_6' title='bbox 127 382 340 456; x_wconf 57' lang='lat' dir='ltr'><strong>masma</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 351 384 660 457; x_wconf 52' lang='lat' dir='ltr'><strong>werimum-e,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 126 397 849 575; baseline 0.008 -25"><span class='ocrx_word' id='word_1_8' title='bbox 126 397 849 575; x_wconf 52' lang='lat' dir='ltr'><strong>mmzmffiw</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 126 560 660 637; baseline -0.002 -25"><span class='ocrx_word' id='word_1_9' title='bbox 126 560 660 637; x_wconf 56' lang='lat' dir='ltr'><strong>cumqitiotugfflmffipmmni</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 125 619 688 695">
+     <span class='ocr_line' id='line_1_7' title="bbox 125 619 688 695; baseline 0.004 -25"><span class='ocrx_word' id='word_1_10' title='bbox 125 619 279 670; x_wconf 69' lang='lat' dir='ltr'><strong>Ambitione!</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 294 622 593 695; x_wconf 64' lang='grc' dir='ltr'><strong>ιιηιιιιοιΐίιίοιφῆὶιε,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 601 620 688 672; x_wconf 52' lang='lat' dir='ltr'><strong>ctist?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 152 919 710 995">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 152 919 710 995">
+     <span class='ocr_line' id='line_1_8' title="bbox 152 919 710 995; baseline 0 -26"><span class='ocrx_word' id='word_1_13' title='bbox 152 919 447 994; x_wconf 61' lang='lat' dir='ltr'><strong>antemusium</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 464 919 710 995; x_wconf 52' lang='lat' dir='ltr'><strong>wemmam!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 127 973 612 1111">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 127 973 608 1103">
+     <span class='ocr_line' id='line_1_9' title="bbox 127 973 608 1053; baseline 0.006 -26"><span class='ocrx_word' id='word_1_15' title='bbox 127 973 422 1052; x_wconf 46' lang='lat' dir='ltr'><strong>Viva-enimn&amp;</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 494 981 608 1053; x_wconf 69' lang='lat' dir='ltr'><strong>opem.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 127 1037 612 1111; baseline 0.004 -21"><span class='ocrx_word' id='word_1_17' title='bbox 127 1037 437 1111; x_wconf 58' lang='lat' dir='ltr'><strong>unimammas,</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 445 1040 612 1103; x_wconf 58' lang='lat' dir='ltr'><strong>utquam.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 128 1099 847 1223">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 127 1093 847 1223">
+     <span class='ocr_line' id='line_1_11' title="bbox 128 1099 847 1223; baseline 0.001 -12.999"><span class='ocrx_word' id='word_1_19' title='bbox 127 1093 734 1223; x_wconf 48' lang='lat' dir='ltr'><strong>mma-emm</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 798 1101 847 1164; x_wconf 67' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 119 1263 154 1279">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 119 1263 154 1279">
+     <span class='ocr_line' id='line_1_12' title="bbox 119 1263 154 1279; baseline 0 -3"><span class='ocrx_word' id='word_1_21' title='bbox 119 1263 154 1279; x_wconf 60' lang='grc' dir='ltr'><strong>..κ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 928 3150">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 0 0 928 3150">
+     <span class='ocr_line' id='line_1_13' title="bbox 0 0 928 3150; baseline 0 0"><span class='ocrx_word' id='word_1_22' title='bbox 0 0 928 3150; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
